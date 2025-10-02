@@ -71,7 +71,7 @@ Functions:
 
 
 # Make a request
-curl http://localhost:7071/api/retry?url=https://httpstat.us/503
+curl http://localhost:7071/api/retry?url=https://tools-httpstatus.pickup-services.com/503
 
 # After retries and delays
 Service unavailable after retries
