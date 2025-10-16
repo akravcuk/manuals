@@ -4,6 +4,8 @@ This document demonstrates how to implement an observability pipeline that conne
 
 > **Note:** This is not a CI/CD or DevOps guide. It focuses purely on *observability architecture and data flow.*
 
+**Main article:** https://grafana.com/docs/grafana/latest/fundamentals/exemplars/
+
 ---
 
 ## System Overview
